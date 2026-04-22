@@ -14,6 +14,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-zons1337-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zons1337)
 [![Instagram](https://img.shields.io/badge/Instagram-zons1337-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zons1337)
 [![Mail](https://img.shields.io/badge/Mail-mail%40zons1337.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@zons1337.com)
+[![Telegram](https://img.shields.io/badge/Telegram-zons1337-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zons1337)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zons1337&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS)
 
@@ -94,6 +95,7 @@
 <a href="https://github.com/zons1337"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://www.instagram.com/zons1337"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="mailto:mail@zons1337.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/zons1337"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 
 <i>⭐ From <a href="https://github.com/zons1337">zons1337</a> - thanks for stopping by!</i>
 
