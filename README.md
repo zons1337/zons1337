@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zons1337&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=zons1337&theme=gitdimmed&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
