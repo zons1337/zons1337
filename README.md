@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎂 18-year-old software developer
+- 🎂 19-year-old software developer
 - 🌐 Building **web projects, bots, and applications** with modern web technologies
 - 💼 Also offering **freelance development services** - see [zons1337.com/services](https://zons1337.com/services)
 - 🛠️ Comfortable across web development (HTML, CSS, JavaScript, TypeScript, PHP, Python), frameworks and runtimes (Node.js, Next.js, React, Astro), databases (MySQL, PostgreSQL, MongoDB, Supabase, Redis, SQLite), and deployment (Netlify, Vercel, Git)
